@@ -1,21 +1,17 @@
 # Curso-Python
-
-CURSO DE PYTHON (UDEMY)
-=============================
+-------------------------------------------------------------------
 SAIDA DE DADOS
 
 print('') = saida de dados 
 print(" ") 
 
-=============================
+-------------------------------------------------------------------
 ADICIONANDO COMENTARIOS 
 
 # Meu primeiro codigo = comentado em uma linha
 
 ''' Meu segundo comentario '''  = comentando um bloco de código 
-
-
-======================================================================
+-------------------------------------------------------------------
 STRINGS EM PYTHON 
 
 STRING = TEXTO 
