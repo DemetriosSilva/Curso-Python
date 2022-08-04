@@ -3,6 +3,7 @@
 SAIDA DE DADOS
 
 print('') = saida de dados 
+
 print(" ") 
 
 -------------------------------------------------------------------
@@ -17,8 +18,7 @@ STRINGS EM PYTHON
 STRING = TEXTO 
 
 STR  = TEXTO
-
-======================================================================
+----------------------------------------------------------------------
 NUMEROS EM PYTHON
 
 INTEGER = NUMEROS INTEIROS 
@@ -26,7 +26,7 @@ FLOAT = NUMEROS FRACIONAIS
 
 
 BOOLEAN TYPE = TRUE OU FALSE 
-======================================================================
+-----------------------------------------------------------------------
 VARIAVEIS 
 
 É UM ESPAÇO NA MEMÓRIA QUE ARMAZENA ALGO QUE VC QUISER 
@@ -38,7 +38,7 @@ nome = "Demetrios"
 idade = 35
 
 cidade = "São Paulo"
-=====================================================================================
+-------------------------------------------------------------------------------------
 MODIFICAÇÃO DE DADOS 
 
 x = str(5)
@@ -48,7 +48,7 @@ z = float(8)
 print(x + x)
 print(y + y)
 print(z + z)
-=====================================================================================
+--------------------------------------------------------------------------------------
 PRATICANDO COM STRINGS E INTEGERS
 
 # O Demetrios Tem a idade de 35 anos e mora na cidade de São Paulo
